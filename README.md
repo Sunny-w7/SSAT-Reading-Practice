@@ -39,7 +39,7 @@ Use a folder named `calibrate-ssat-reading` with `SKILL.md` directly inside it. 
 | --- | --- |
 | [SKILL.md](SKILL.md) | The complete workflow for selecting passages, writing questions, reviewing answers, and grading. |
 | [review-templates.md](references/review-templates.md) | Passage and item records, an independent review table, and a grading summary. |
-| [project-calibration.md](references/project-calibration.md) | A historical record of six practice rounds, including previously read excerpts and observed errors. |
+| [project-calibration.md](references/project-calibration.md) | A historical record. |
 | [openai.yaml](agents/openai.yaml) | OpenAI display settings and a default prompt. |
 
 **Before publishing a public fork**, review the historical calibration file. It contains learner-specific scores and confidence breakdowns. For a general-purpose edition, replace its contents with a blank tracking template at the same path. The passage-selection and grading workflow can be used with a new learner from the first session.
